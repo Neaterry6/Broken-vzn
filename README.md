@@ -2,7 +2,7 @@
 <p align="center"><a href="https://github.com/Dark-Xploit/followers"><img title="Followers" src="https://img.shields.io/github/followers/Dark-Xploit?color=red&style=flat-square"></a></p>
 <p align="center"><a href="https://komarev.com/ghpvc/?username=Dark-Xploit&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=Dark-Xploit&color=green&style=flat-square&label=Profile+View"></a>
 </p>
-<p align="center"><a href="https://github.com/Dark-Xploit"><img src="https://github-readme-stats.vercel.app/api?username=Dark-Xploit&show_icons=true&theme=radical"></a></p>
+
 <p align="center"><a href="https://github.com/Dark-Xploit"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Xploit&theme=radical&layout=compact"></a></p>
 <p align="center"><a href="https://github.com/Dark-Xploit"><img src="https://streak-stats.demolab.com/?user=Dark-Xploit&theme=radical"></a></p>
 
