@@ -29,5 +29,6 @@
 
 </details> 
 
+### TOP CONTRIBUTIONS
+![](https://github-contributor-stats.vercel.app/api?username=Dark-Xploit&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-https://github-contributor-stats.vercel.app/api?username=Dark-Xploit&limit=5&theme=flat&combine_all_yearly_contributions=true
