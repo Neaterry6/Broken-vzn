@@ -19,3 +19,10 @@
 
 ### MY REPO STATS: 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Xploit&repo=XPLOADER-BOT&theme=radical)
+
+
+### CONNECT WITH ME 
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/heyits_tylor)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](phantomtylor@gmail.com)
