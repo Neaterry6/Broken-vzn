@@ -1,3 +1,7 @@
+### Hi there! 👋 
+I'm Tylor (Dark-Xploit), a developer passionate about AI, chatbots and coding. I love working on projects related to WhatsApp bots, AI-driven solutions and open-source technologies. Currently, I'm focusing on enhancing my XPLOADER-BOT project.
+
+
 ### MY STATS:
 <p align="center"><a href="https://github.com/Dark-Xploit/followers"><img title="Followers" src="https://img.shields.io/github/followers/Dark-Xploit?color=red&style=flat-square"></a></p>
 <p align="center"><a href="https://komarev.com/ghpvc/?username=Dark-Xploit&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=Dark-Xploit&color=green&style=flat-square&label=Profile+View"></a>
