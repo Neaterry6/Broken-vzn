@@ -1,4 +1,4 @@
-### 📈 My Stats :
+### MY STATS:
 <p align="center"><a href="https://github.com/Dark-Xploit/followers"><img title="Followers" src="https://img.shields.io/github/followers/Dark-Xploit?color=red&style=flat-square"></a></p>
 <p align="center"><a href="https://komarev.com/ghpvc/?username=Dark-Xploit&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=Dark-Xploit&color=green&style=flat-square&label=Profile+View"></a>
 </p>
@@ -10,7 +10,7 @@
 
 ---
 
-### 📊 Repo Stats : 
+### MY REPO STATS: 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Xploit&repo=XPLOADER-BOT&theme=radical)
 
 ---
@@ -28,5 +28,6 @@
   ![Metrics](https://metrics.lecoq.io/Dark-Xploit?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Africa%2FNairobi)
 
 </details> 
+
 
 https://github-contributor-stats.vercel.app/api?username=Dark-Xploit&limit=5&theme=flat&combine_all_yearly_contributions=true
