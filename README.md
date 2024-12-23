@@ -1,5 +1,5 @@
 ### Hi there! 👋 
-I'm Tylor (Dark-Xploit), a developer passionate about AI, chatbots and coding. I love working on projects related to WhatsApp bots, AI-driven solutions and open-source technologies. Currently, I'm focusing on enhancing my XPLOADER-BOT project.
+I'm `Tylor` (Dark-Xploit), a developer passionate about AI, chatbots and coding. I love working on projects related to WhatsApp bots, AI-driven solutions and open-source technologies. Currently, I'm focusing on enhancing my `XPLOADER-BOT` project.
 
 
 ### MY STATS:
@@ -19,10 +19,6 @@ I'm Tylor (Dark-Xploit), a developer passionate about AI, chatbots and coding. I
 ![](https://github-contributor-stats.vercel.app/api?username=Dark-Xploit&limit=5&theme=black&combine_all_yearly_contributions=true)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dark-Xploit&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-### MY REPO STATS: 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Xploit&repo=XPLOADER-BOT&theme=radical)
 
 
 ### CONNECT WITH ME 
