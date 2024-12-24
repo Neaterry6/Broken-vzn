@@ -9,6 +9,7 @@ I'm `Tylor` (Dark-Xploit), a developer passionate about AI, chatbots and coding.
 <p align="center"><a href="https://github.com/Dark-Xploit"><img src="https://github-readme-stats.vercel.app/api?username=Dark-Xploit&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/Dark-Xploit"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Xploit&theme=radical&layout=compact"></a></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dark-Xploit&" alt="Tylor" /></p>
 
 ### GITHUB TROPHIES
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Dark-Xploit)
