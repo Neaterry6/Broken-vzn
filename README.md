@@ -1,5 +1,5 @@
 ### Hi there! 👋 
-I'm `Tylor` (Dark-Xploit), a developer passionate about AI, chatbots and coding. I love working on projects related to WhatsApp bots, AI-driven solutions and open-source technologies. Currently, I'm focusing on enhancing my `XPLOADER--BOT` project.
+I'm `Tylor` (Dark-Xploit), a developer passionate about AI, chatbots and coding. I love working on projects related to WhatsApp bots, AI-driven solutions and open-source technologies. Currently, I'm focusing on enhancing my `CypherX` project.
 
 
 ### MY STATS:
